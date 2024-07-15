@@ -1,2 +1,20 @@
 # Profit_prediction
- 
+
+![Screenshot 2024-04-27 214758](https://github.com/user-attachments/assets/6fdb6d84-5a83-4770-b79f-1265bccd00b6)
+![Screenshot 2024-04-27 214737](https://github.com/user-attachments/assets/4cf1ae27-ceeb-4c51-93f4-0ad1768542b1)
+![Screenshot 2024-04-27 214643](https://github.com/user-attachments/assets/c5031984-2463-4635-a4af-a44889855d1c)
+![Screenshot 2024-04-27 214556](https://github.com/user-attachments/assets/e129b936-49e0-4634-816d-97ad1c143795)
+![Screenshot 2024-04-27 215136](https://github.com/user-attachments/assets/58166ae8-1926-4392-99ff-056f79d4d2bf)
+![Screenshot 2024-04-27 215103](https://github.com/user-attachments/assets/0253c7b1-c1ec-458d-b464-d55a628de759)
+![Screenshot 2024-04-27 215052](https://github.com/user-attachments/assets/3588e4a7-8e87-424c-9f80-782b477a2a41)
+![Screenshot 2024-04-27 215043](https://github.com/user-attachments/assets/59a97b90-13e7-46d5-a030-6145d1b60124)
+![Screenshot 2024-04-27 215025](https://github.com/user-attachments/assets/b405e39b-df0a-47d0-88b5-a248814700a4)
+![Screenshot 2024-04-27 214920](https://github.com/user-attachments/assets/1461e604-4bd5-42d2-9a83-d8ee62a8dddd)
+![Screenshot 2024-04-27 214823](https://github.com/user-attachments/assets/f1e61f32-f25e-4823-a5e3-2ae35d23ffaf)
+![Screenshot 2024-04-27 215724](https://github.com/user-attachments/assets/a0670e9f-6299-46ce-b59d-68b9072757d7)
+![Screenshot 2024-04-27 215650](https://github.com/user-attachments/assets/0b9e0ee4-69d4-4886-a3a8-f6481c460b1b)
+![Screenshot 2024-04-27 215242](https://github.com/user-attachments/assets/2152033b-94fc-4e01-b75c-472ceae78714)
+![Screenshot 2024-04-27 215212](https://github.com/user-attachments/assets/b630bff0-63ad-4ab1-91e1-f2cbe69bc02b)
+![Screenshot 2024-04-27 215159](https://github.com/user-attachments/assets/3c67eb45-bce7-4fc7-b27b-ad61427adf52)
+![Screenshot 2024-06-21 132839](https://github.com/user-attachments/assets/888bb1cf-7308-457a-a1c1-855002aa3c99)
+![Screenshot 2024-04-27 215740](https://github.com/user-attachments/assets/8a522768-5e4d-4190-8ea4-4ec2c2faf0f6)
